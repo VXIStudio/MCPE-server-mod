@@ -1,69 +1,781 @@
 {
   "Config": [
     {
-      "interval": 5,
-      "backup": "unity",
+      "interval": 2,
+      "backup": "applovin",
       "status": true,
       "link": "https://google.com/",
       "contact": "https://google.com/",
-      
-      "addon": false,
-      "maps": false,
-      "texture": false,
+      "addon": true,
+      "maps": true,
+      "texture": true,
       "skin": false,
       "more": false,
-      
-      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native": "ca-app-pub-3940256099942544/2247696110",
-     
-      
+      "admob_open_ads": "ca-app-pub-3044835834543602/9481558566",
+      "admob_banner": "ca-app-pub-3044835834543602/5733885242xxxx",
+      "admob_inter": "ca-app-pub-3044835834543602/5897822187",
+      "admob_native": "ca-app-pub-3044835834543602/3107721908",
       "unity_banner": "Banner_Android",
       "unity_inter": "Interstitial_Android",
-      
-      
-      "applovin_banner": "unitid",
-      "applovin_inter": "unitid",
-      "applovin_native": "unitid",
-      
+      "applovin_banner": "6e71da938d9748bb",
+      "applovin_inter": "2c7423d6d4cf155e",
+      "applovin_native": "cca0842e5c773e14",
       "ironsource_banner": "1215fccad",
       "ironsource_inter": "1215fccad",
-      "fan_banner":"YOUR_PLACEMENT_ID",
-      "fan_inter":"YOUR_PLACEMENT_ID",
-      "fan_native":"YOUR_PLACEMENT_ID"
-      
-      
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID"
     }
   ],
   "Addon": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+      "name": "Realistic Bottlenose Dolphin Trainer Addon [Project Bottlenose]",
+      "role": "Hi, I'm DolphinMasterMB! I'm the creator of the Dolphin Trainer Addon! It all started with my experiences with real bottlenose dolphins! I adore them! That's why me and a friend started working on Project Bottlenose! Here we add a Realistic Bottlenose Dolphin to Minecraft including some amazing animations! Like jumps, Tricks, Dances, Petting interactions and a gorgeous swimming animation! All available to try out in this super cool addon! I like to learn and experiment with Minecraft coding! I'm practicing my programming skills everyday! Some features are being worked on daily! Stay tuned for cool new stuff! I'm always improving my content!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Aquaman/2/4.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Aquaman/2/Project_Bottlenose_Dolphin_Trainer_Addon_by_DolphinMasterMB.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Aquaman/2/4.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Aquaman/2/4.png"
+    },
+    {
+      "name": "Flying Unicorn Addon",
+      "role": "Have you always wished unicorns were in minecraft? Well with this addon it replaces horses with flying unicorns! It has different variants and when you ride them you can fly.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/1/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/1/Unicorns.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/1/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/1/1.png"
+  },
+  {
+      "name": "Unicorn",
+      "role": "This add-on changes the average horse wandering around the world to give it a horn. which turns it into what? that's right a unicorn. these magical creatures act exactly like the horse you have in your stable but look a tad bit different to make them more unique.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/2/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/2/unicornv2tynkerb3e00fec.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/2/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/2/1.png"
+  },
+  {
+      "name": "Unicorns and Butterflies Add-on!!",
+      "role": "And not just Unicorns and butterflies, there's Alacorns and Pegasus! Pegasuses?!? Pegasi?? Who knows!! They're horses that have wings! What else could possibly matter. AND they come in a crazy variety of colors. With sparkling things going everywhere. Make sure you wear sunglasses.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/3/1.jpg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/3/unicorn.v4_1590983439.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/3/1.jpg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/3/New Text Document.txt"
+  },
+  
+  {
+      "name": "yFantasy",
+      "role": "yFantasy is here! Bringing magnificent and dangerous resources to your exploration, you can hunt down dangerous vampires, tame baby dragons, trade wizards, meet several new biomes and much more!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/7/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/7/yFantasy v1.0.1.26.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/7/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/7/1.png"
+  },
+  {
+      "name": "2 Seats on Horse v5 - Llama Update",
+      "role": "Do you want to ride a horse with your friends? But you only have 1 horse. Don't worry, this Addon can solve your problem!. This addon allows you to ride a horse with 2 players. you can ride it as easily as you ride a boat. and also can be played on mobile, pc, and console versions. Made by Edsel.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/11/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/11/2.Seats.Horse.v5.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/11/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/11/1.png"
+  },
+  {
+      "name": "Robot Horse Add-on",
+      "role": "This add-on implements a four-legged mechanical horse to the game. It's much more powerful than an ordinary horse since it got the abilities to run faster, withstand more damage and jump higher. The robot revolution is finally here and the first to be replaced is a horse. Who would have known.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/12/3.jpg",
+      "file_url": "https://kossandroid.com//Data Android/Minecraft/Unicorn/12/Robot Horse V2.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/12/1.jpg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/12/2.jpg"
+  },
+  {
+    "name": "Mine-Frog Add-on",
+    "role": "This addon replaces rabbits with 7 different types of frogs which you can keep as pets. They are very weak compared to let's say a wolf and needs to be well taken care of in order to survive in Minecraft. It's a really cute and harmless creature, but it would have be even better if it included some custom frog sounds.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/2/3.jpg",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/2/Mine-Frogs Packs.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/2/2.jpg",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/2/1.jpg"
+},
+{
+    "name": "SwampPLUS Addon (NEW Swamp Update)",
+    "role": "The swamps in Minecraft have always needed a major update, the SwampPLUS addon changes all that by adding new structures, mobs, items, and blocks to make the swamps feel more alive.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/5/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/5/SwampPLUS.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/5/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/5/1.png"
+},
+{
+    "name": "Darwin's Frog",
+    "role": "(Warning maybe this addon will not work on Windows 10 edition) Yes, the Darwin's frog it's now here in minecraft, a little frog from the patagonic cold forests, a endangered one, i have made this add-on with one hope, and that is, that the world start knowing about this frog endemic of Chile and Argentina, we need to save it from the exntinction.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/7/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/7/1616016281872.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/7/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/7/1.png"
+},
+{
+    "name": "More Pets Add-On",
+    "role": "An addon that will add new different types of Minecraft Pets also with new Items and Food, this is Work In Progress project so expect continous updates to models, textures, functionalities, etc.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/12/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/12/More_PetsRV1.3.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/12/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/12/1.png"
+},
+{
+    "name": "Bioplentia",
+    "role": "Bioplentia is a biome addon for Minecraft Bedrock. You can travel biomes and explore the landscape. Along with the new biomes, it adds new mobs, plants, flowers, trees, building blocks.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/13/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/13/Bioplentia1171111120210828.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/13/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/13/1.png"
+},
+{
+    "name": "Frog Addon",
+    "role": "This addon adds 5 different frogs to the game which can be found in the jungle also adds cockroaches cockroaches appear in any biome but the frogs will take care of eating them",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/14/1.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/14/Frog Addon by Team Infinite Minds and S-Mods.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/14/1.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/14/1.png"
+},
+{
+    "name": "Jurassic Project Addon",
+    "role": "The addon is presented in beta version with only 13 dinosaurs and 1 hibrid, it will soon be updated with more features and functions. In this beta version, dinosaurs have some different functions and animations.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/16/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/16/jurassic_project_addon.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/16/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/16/1.png"
+},
+{
+    "name": "Sephiroth - Addon",
+    "role": "I'm waiting cloud... I have come to bring despair to Minecraft! - Cubic Sephiroth. Sephiroth is a character from the final fantasy series but was also added to Super Smash Bros Ultimate, this Addon lets you become Sephiroth based on his Smash Bros appearance so his attacks are based around that moveset.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/17/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/17/Sephiroth Addon.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/17/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/17/1.png"
+},
+{
+    "name": "The Wild Update Warden and Archeology",
+    "role": "This addon adds several features from the wild update, such as the guardian carving boats from mangrove wood items with fireflies chest and archeology that won't be added in the update",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/18/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/18/warden_and_archeologyR.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/18/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/18/1.png"
+},
+{
+    "name": "Tropical Craft 2",
+    "role": "Tropical Craft 2 (Tropical Beach 2)! New incredible coastlines and rain forests for you to explore! This is an incredible complement you can include in your world. A lot of exploration, smart tropical animals and big trees of different types and cultures!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/19/1.jpg",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/19/TropicalCraft2.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/19/3.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/19/2.png"
+},
+{
+    "name": "Animals Addon (Beta)",
+    "role": "Have you ever felt like Minecraft doesn't have enough exotic animals? Well, this addon will fix the problem. I will get to more animals soon. But please leave feedback so I can continue making more addons. :)",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/22/1.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/22/ANIMALS-BETA-4-MC-ADDON.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/22/1.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/22/1.png"
+},
+{
+    "name": "Biome Chooser 19 Concept (Addon)",
+    "role": "This is a concept of the upcoming biome updates, This is 100% based only on the information we have from the official Minecraft YouTube channel. Similar to what we did last year with Biome Chooser 18 This addon is here to give you an idea of what the updates might look like, Therefor help you vote",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/25/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/25/Biome Chooser 19.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/25/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/25/1.png"
+},
+{
+    "name": "Freddy Craft",
+    "role": "Do you like fnaf? If so then we have something in common, but I also like minecraft so I decided to make my own addon based around it but I decided to do something I have yet to see, make the animatronics craftable",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/26/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/26/Freddycraft12.0.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/26/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/26/1.png"
+},
+{
+    "name": "Arktoon Minecraft (POLISHING UPDATE) 1.7.0",
+    "role": "arktoon addon is an addon made alone by ijatullah, this addon is inspired by the pixark and ark games, so there are several similar features, this addon I made for people who want to play ark or pixark but don't have adequate devices, so just go to the main thing is",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/27/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/27/arktoon 1.5.5.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/27/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/27/1.png"
+},
+{
+    "name": "Curious Finds New Version 2.9.0",
+    "role": "This addon introduces you to the world a small change in the form of new items, namely 'Finds'",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/29/3.jpeg",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/29/cursion_finds_2.9.0.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/29/1.jpeg",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/29/1.jpeg"
+},
+{
+    "name": "Frog Eat Stuff",
+    "role": "Are the frogs in the latest beta not crazy enough? They already eat slimes, magma cubes, and goats, but what if they ate even more? What if Frog Eat Stuff?",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/40/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/40/frogeatstuff.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/40/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/40/1.png"
+},
+{
+    "name": "New Mobs: New Pets Addon",
+    "role": "Have you ever thought that maybe, Minecraft needed more pets, or at least more wildlife? Well this add-on brings to you three new mobs known as the Fox, Mouse, and Frog.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/43/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/43/new_pets.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/43/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/43/1.png"
+},
+{
+    "name": "NPC Expansion (Frogs and Tadpoles update)",
+    "role": "Are you a map maker and do you feel like the skins of the npc is so few and want to add more? This add-on is just for you this add-on adds so many new skins to the npc.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/44/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/44/NPC Addon v7.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/44/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/44/1.png"
+},
+  {
+      "name": "Candy Island Addon",
+      "role": "Candy Island Addon is released! With it you can explore gigantic biomes completely made out of sweets! With over ten new structures, dungeons and more!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/13/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/13/Candy Island.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/13/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/13/1.jpg"
+  },
+  {
+      "name": "My Little Pony Addon",
+      "role": "Are you looking for an addon with ponies, this addon can help you it adds ponies, unicorns, pegasus and alicorns, this addon will still have Updates with each one better than the other.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/14/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/14/MINE LITTLE PONY V4 OFFICIAL.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/14/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/14/1.png"
+  },
+    {
+      "name": "TD's Kits",
+      "role": "Fighting is fun, but it takes a long time to get the gear ready. This is your solution! TD's Kits adds 9 kits accessible using the /function command, saving you a lot of time!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Aquaman/6/2.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Aquaman/6/TDs_Kits.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Aquaman/6/1.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Aquaman/6/1.png"
+    },
+    {
+      "name": "[NEW] Dolphin Trainer Addon + [The Horrors of PixelFin]",
+      "role": "Hi I'm DolphinMasterMB, I'm really fascinated by dolphins and the interaction with them. I made this addon. That massively enhances the dolphin behaviors! The dolphins can now make awesome custom jumps themselves and even on demand!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Aquaman/7/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Aquaman/7/Dolphin_Trainer_Addon_The_Horrors_of_PixelFin_by_DolphinMasterMB.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Aquaman/7/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Aquaman/7/1.png"
     }
   ],
   "Map": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+      "name": "Equip Wars",
+      "role": "You want to fight with your friends on a custom map with custom classes? Then this map would be something for you.Play this map with howmuch players you want to. Are there any bugs feel free to just message us in the comment section.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Aquaman/1/4.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Aquaman/1/Equip Wars Version 1.0.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Aquaman/1/3.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Aquaman/1/2.png"
+    },
+    {
+      "name": "Flood Escape 1.2 (normal mode)",
+      "role": "An interesting version of the normal minecraft parkour mixed with deadly water and find the button to make your path to victory.inspired from Roblox 'Flood Escape Classic' By CrazyBlox.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Train/6/3.jpeg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Train/6/flood2.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Train/6/2.jpeg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Train/6/1.jpeg,"
+    },
+    {
+      "name": "Wizard101 Map (Revamped!)",
+      "role": "After losing a lot of my progress, I had to go back and re do but also add certain sections that made this this playable.  However, after your long wait, here is an update you have waited for.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/4/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/4/Wizard101-in-Minecraft_1590967789.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/4/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/4/1.png"
+  },
+  {
+      "name": "Horse Parkour [Parkour]",
+      "role": "This is a new take on parkour. Instead of running the parkour course yourself you will be riding a horse! It's slightly more difficult to control a horse than controlling the player (at least that's my opinion) and that makes this map quite hard actually. You can either play it in multiplayer or just play it by yourself.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/16/3.jpg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/16/Horse Parkour.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/16/2.jpg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/16/1.jpg"
+  },
+    {
+      "name": "Command Block Train [Redstone] (1.0.5 Only!)",
+      "role": "This is a really cool redstone creation which lets you drive an old school train and all of it is made possible by command blocks. It's very easy to get started as a train driver in Minecraft since all you will need to do is to stand on a pressure plate to make it move forward. It's fairly limited currently as it can only move in one direction and the rails lasts only for 100-200 blocks.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Train/8/tiga.jpg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Train/8/train5.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Train/8/satu.jpg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Train/8/dua.jpg,"
+    },
+    {
+      "name": "Glodelania Railway (1.12 Beta) [Creation]",
+      "role": "Glodelania Railway is a fictional railway, it is created for Akihiro Akagi's Train Addon. So, this is not your ordinary railway map. Also this is the only railway map in MCPEDL specialised for Akihiro Akagi's Train Addon for now. The map is currently unfinished, this is just an initial release so expect an update soon. The trains drive at the left rail of the line like in Japan. Also the AlphaBlocks Addon is here.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Train/11/dua.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Train/11/Glodelania Railway.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Train/11/tiga.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Train/11/satu.png,"
+    },
+    {
+      "name": "Command Block Train [Redstone] (1.0.5 Only!)",
+      "role": "This is a really cool redstone creation which lets you drive an old school train and all of it is made possible by command blocks. It's very easy to get started as a train driver in Minecraft since all you will need to do is to stand on a pressure plate to make it move forward. It's fairly limited currently as it can only move in one direction and the rails lasts only for 100-200 blocks.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Train/1/3.jpg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Train/1/train5.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Train/1/2.jpg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Train/1/1.jpg,"
+    },
+    {
+      "name": "City Building Kit",
+      "role": "Hello! Do you need help building your city! Here's the city building kit! Just clone or use a structure block to paste the roads and details together! And you build the rest!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Train/4/1.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Train/4/Citykit.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Train/4/3.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Train/4/2.png,"
+    },
+    {
+      "name": "Station Plengeh [Creation]",
+      "role": "This map contains a long railway line with several different train stations both underground and above land. It's a really good start for anyone who would like to build their own complex railroad system as it includes already finished stations. There are even switches and toggles which you can use for activating different redstone mechanisms such as stop lights or the power to a train track.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Train/12/satu.jpg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Train/12/stasiun-plengh.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Train/12/empat.jpg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Train/12/dua.jpg,"
+    },
+    {
+      "name": "Tokyo Metro 6000 Series (Indonesia) Addon",
+      "role": "This is Tokyo Metro 6000 Series localized for Indonesia's Kereta Commuter Railway, the original version is White with Green line. This addon replaces the minecart and is available in both 3 and 6 Cars Formation.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Train/13/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Train/13/Tokyo-Metro-Indonesia.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Train/13/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Train/13/1.png,"
     }
   ],
   "Texture": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+      "name": "Justice League Skin Pack",
+      "role": "The Justice League skin pack that features all 7 main members. Batman and Superman will be the starting 2 additions to the Justice League Group. The Justice League will feature Superman, Batman, Wonder Women, Green Lantern, The Flash, Martian Manhunter and Aquaman.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Aquaman/5/2.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Aquaman/5/Justice-League_1593656756.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Aquaman/5/1.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Aquaman/5/1.png"
+    },
+    {
+      "name": "ReBuilt Shader",
+      "role": "ReBuilt Shader, a shader pack rebuild from scratch, is the successor of the famous UltraMax Shader. Using new rendering methods to create a new stunning visuals at little performance cost.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/1/satu.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/1/ReBuilt-Shader-v1.0.2_1603435794.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/1/dua_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/1/dua_desc.png"
+    },
+    {
+      "name": "SufiCraft Shader v0.2",
+      "role": "This shader just a simple shader but it will make your minecraft better. There are some future in this shader to make it beautiful. You can use this shader to your world to make it better.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/2/tiga_desc.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/2/SufiCraft-Shader-v0.2.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/2/empat_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/2/dua.png"
+    },
+    {
+      "name": "Energy Shaders",
+      "role": "Energy Shaders makes your world look much better. With better lights, shadows, fog and much more. You should just download it and try it our for yourself. It`s totally free! Energy Shaders is one of the first shaders to offer full support for Windows 10, iOS and Android. The most noticeable differences are for the water and lighting. The combined result is astonishing as it makes the world look a bit more realistic but primarily just a more beautiful world to experience. It also comes with some nice 32�32 clear glass textures.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/3/enam_desc.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/3/Energy Shaders v. 3.7.1.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/3/tiga.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/3/lima_desc.png"
+    },
+    {
+      "name": "HTRE Shader",
+      "role": "HTRE Shader is one of the best shaders for slow devices, such as a Kindle Fire HD8 7th gen, which can barely run any nice shaders. I tried the highest rated shaders on the Kindle and it lagged so much! That is why I created the HTRE Shader! I wanted a good shader with no lag at all! If you want that you should download this shader!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/6/duabelas_desc.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/6/HTREShader/HTREShader.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/6/sebelas_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/6/enam.png"
+    },
+    {
+      "name": "Elytra Models",
+      "role": "Want a more exciting elytra glider? These elytra models will change up your game. Either for roleplay toy story, being small, be part phantom or dragon. It's fun to change things up. Now added The Super Pack that adds in hero and villain style elytra models, and added 9 new elytra models. The Animals and Creatures Pack adds in 19 more elytra models where you turn into the animal or creature you choose.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/5/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/5/ElytraModels5.1.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/5/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/5/1.png"
+  },
+  {
+      "name": "Elves (R)",
+      "role": "The Elves are coming to Minecraft World! They live in a tree house in the new magic biome along fairies, giant trees and unicorns. Discover this whimsical place and its secrets. The Elves are coming to Minecraft World! They live in a tree house in the new magic biome along fairies, giant trees and unicorn Discover this whimsical place and its secrets.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/6/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/6/Elvesv2R.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/6/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/6/1.png"
+  },
+  {
+      "name": "Elves (B)",
+      "role": "The Elves are coming to Minecraft World! They live in a tree house in the new magic biome along fairies, giant trees and unicorns. Discover this whimsical place and its secrets. The Elves are coming to Minecraft World! They live in a tree house in the new magic biome along fairies, giant trees and unicorns. Discover this whimsical place and its secrets.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/6/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/6/Elvesv2B.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/6/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/6/1.png"
+  },
+  {
+      "name": "Better Skeleton Horses Addon v1.1",
+      "role": "With this add-on you can have better skeleton horses! The skeleton horses have better varying attributes such as Health, Speed and Jump. Now you can be more excited about finding one!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/8/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/8/Better Skeleton Horses v1.1.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/8/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/8/1.png"
+  },
+  {
+      "name": "Rideable Zombie Horses Addon",
+      "role": "For the first time ever, zombie horses can now be ridden in Minecraft Pocket Edition. The horse is two times faster than an ordinary horse and if you ask me it looks so much cooler as well. Some things work a little bit different compared to a normal horse so make sure to read everything carefully!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/9/3.jpg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/9/rideable-zombie-horses.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/9/2.jpg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/9/1.jpg"
+  },
+  {
+      "name": "Ender Horse Add-on (B)",
+      "role": "This addon implements a new horse called the Ender Horse to the game. Its main feature is its ability to teleport. The teleportation is random so it's quite hard to control but it's nonetheless a quite unique feature for a horse. It has on average more health than other horses and it also has some boosted speed and jumping abilities.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/10/1.jpg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/10/ender_horse_b.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/10/1.jpg",
+      "imgcoverdua": "https://kossandroid.comData Android/Minecraft/Unicorn/10/2.jpg/"
+  },
+  {
+      "name": "Ender Horse Add-on (R)",
+      "role": "This addon implements a new horse called the Ender Horse to the game. Its main feature is its ability to teleport. The teleportation is random so it's quite hard to control but it's nonetheless a quite unique feature for a horse. It has on average more health than other horses and it also has some boosted speed and jumping abilities.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/10/2.jpg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/10/ender_horse_r.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/10/1.jpg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/10/2.jpg"
+  },
+  {
+      "name": "Better Skeleton Horses Addon v1.1",
+      "role": "With this add-on you can have better skeleton horses! The skeleton horses have better varying attributes such as Health, Speed and Jump. Now you can be more excited about finding one!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/8/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/8/Better Skeleton Horses v1.1.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/8/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/8/1.png"
+  },
+  {
+    "name": "FORGS Resource Pack",
+    "role": "This is a simple but really great resource pack which transforms the rabbits in your world into friendly amphibians known as frogs! The frogs have complete new textures, models and sounds. It's perfect for all you frog lovers out there!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/1/1.jpg",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/1/FORGS.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/1/1.jpg",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/1/1.jpg"
+},
+{
+    "name": "Swamp Enchants Addon (B)",
+    "role": "So you want to experience the things seen in Minecraft Live 2021, so you're in the right place, now it's closer than ever, on your Minecraft Be, come be a part of this gooey swamp world.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/3/4.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/3/Swamp Enchants Behavior Pack 1.01.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/3/3.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/3/2.png"
+},
+{
+    "name": "Swamp Enchants Addon (R)",
+    "role": "So you want to experience the things seen in Minecraft Live 2021, so you're in the right place, now it's closer than ever, on your Minecraft Be, come be a part of this gooey swamp world.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/3/4.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/3/Swamp Enchants Resource Pack 1.01.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/3/3.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/3/2.png"
+},
+{
+    "name": "Abstract's Recraft: An Overhaul Add-on! (Massive Update!) (B)",
+    "role": "We all wish some aspects of Minecraft would be updated or changed, but with one major update a year some aspects that need updating can take a while to be changed. With my add-on, I plan to make these changes we all want with the input and ideas of anyone who enjoys this add-on!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/4/4.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/4/AROA1.5BP.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/4/3.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/4/2.png"
+},
+{
+    "name": "Abstract's Recraft: An Overhaul Add-on! (Massive Update!) (R)",
+    "role": "We all wish some aspects of Minecraft would be updated or changed, but with one major update a year some aspects that need updating can take a while to be changed. With my add-on, I plan to make these changes we all want with the input and ideas of anyone who enjoys this add-on!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/4/4.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/4/AROA1.5RP.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/4/3.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/4/2.png"
+},
+{
+    "name": "yBiomes Craft (1.17 and 1.18) (B)",
+    "role": "yBiomes is here! HAVE MANY FULL NATURAL GENERATION biomes in your game! For you to have fun with many new trees, structures and biomes very interesting and great to complete your survival and their worlds!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/6/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/6/yBiomesCraftBP.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/6/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/6/1.png"
+},
+{
+    "name": "yBiomes Craft (1.17 and 1.18) (R)",
+    "role": "yBiomes is here! HAVE MANY FULL NATURAL GENERATION biomes in your game! For you to have fun with many new trees, structures and biomes very interesting and great to complete your survival and their worlds!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/6/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/6/yBiomesCraftRP.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/6/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/6/1.png"
+},
+{
+    "name": "Hungry Hungry Frog",
+    "role": "to create this mod, I simply took some frogs from the wild in the latest minecraft beta, and kept him from his favorite food (slimes) for a few hours to build up a massive apatite, so big in fact that they can and will eat anything to fill the void that is their belly, I then packaged them up into a bundle and posted it on here ready to spawn in your worlds",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/8/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/8/hungry hungry frogs.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/8/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/8/1.png"
+},
+{
+    "name": "Frogs Wild Update Concept Addon",
+    "role": "With this addon you can get some features of the future wild update, for example the new frogs!!Naturally, many more features announced at minecon 2021 are in development, and possibly i would like to add hypothetical custom features not announced at minecon live, just my personal concepts",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/9/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/9/FrogsWildUpdate.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/9/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/9/1.png"
+},
+{
+    "name": "Frogs Eat Everything (BETA ONLY)",
+    "role": "Frogs are the first mob in Minecraft to actually eat other mobs, this addon will make frogs eat every monster in mob in Minecraft besides Slimes & Magma Cubes and makes an hilarious addon.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/10/3.jpeg",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/10/Frog Eats.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/10/2.jpeg",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/10/1.png"
+},
+{
+    "name": "Terracotta Expansion",
+    "role": "Here it is, Terracotta Expansion. An expansion type of add-on that focusing on biomes, mobs, and features addition. Gather up your resources and travel to a new biomes, feed some new animals, and play with them. I'm very happy to introduce you some of the new stuff that are in this add-on,",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/11/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/11/Terracotta Expansion BP.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/11/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/11/1.png"
+},
+{
+    "name": "Terracotta Expansion",
+    "role": "Here it is, Terracotta Expansion. An expansion type of add-on that focusing on biomes, mobs, and features addition. Gather up your resources and travel to a new biomes, feed some new animals, and play with them. I'm very happy to introduce you some of the new stuff that are in this add-on,",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/11/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/11/Terracotta Expansion RP.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/11/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/11/1.png"
+},
+{
+    "name": "Minecraft Java Edition's Translation (Bedrock) (Only for Traditional Chinese",
+    "role": "The translation of Minecraft is worse so this texture pack would fix this problem of Traditional Chinese.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/15/1.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/15/繁體中文修正資源包.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/15/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/15/1.png"
+},
+{
+    "name": "Mob Hider V26 (Bug Fixes!)",
+    "role": "Mob Hider is an addon for those who want to become mobs and monsters in Minecraft PE.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/21/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/21/Mob Hider V26.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/21/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/21/1.png"
+},
+{
+    "name": "Dream SMP Add-on Expanded & Enchanced",
+    "role": "You might heard or even like watching dream SMP but incase you don't know what dream SMP is, here an explanation about dream SMP : The Dream SMP (formerly known as the Dream Team SMP), is a private survival multiplayer (SMP) server played on by the Dream Team and their friends. But not only they survive in the SMP but they also add lore and faction to the SMP",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/23/6.jpeg",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/23/Dream SMP Expanded and enchanced_behavior_pack.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/23/5.jpeg",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/23/5.jpeg"
+},
+{
+    "name": "MultiPixel Texture Pack",
+    "role": "MultiPixel is a HD texture pack with new 32x textures that you've never seen before! It's great if you like to improve the look in Minecraft, while keeping the vanilla styling.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/28/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/28/MultiPixel_Bedrock_1.18_rv1.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/28/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/28/1.png"
+},
+{
+    "name": "JoJo's Bizarre Adventure Stand Disc (B)",
+    "role": "A new JoJo's bizarre Adventure Add-on!Use disc to summon your own stand!!! This add-on including a lot of stands.Such as :Star Platinum, the world,crazy diamond,killer queen and so on.Just using a CD could let you summon your stand!Hope you will find some entertainment in our add-on!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/30/3.jpeg",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/30/stand_disc B.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/30/3.jpeg",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/30/1.jpeg"
+},
+{
+    "name": "JoJo's Bizarre Adventure Stand Disc (R)",
+    "role": "A new JoJo's bizarre Adventure Add-on!Use disc to summon your own stand!!! This add-on including a lot of stands.Such as :Star Platinum, the world,crazy diamond,killer queen and so on.Just using a CD could let you summon your stand!Hope you will find some entertainment in our add-on!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/30/3.jpeg",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/30/stand_disc R.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/30/3.jpeg",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/30/1.jpeg"
+},
+{
+    "name": "FORGS Resource Pack",
+    "role": "This is a simple but really great resource pack which transforms the rabbits in your world into friendly amphibians known as frogs! The frogs have complete new textures, models and sounds. It's perfect for all you frog lovers out there!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/41/1.jpg",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/41/FORGS.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/41/1.jpg",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/41/1.jpg"
+},
+{
+    "name": "Pepe Frog",
+    "role": "Do you like memes? And do you also like memes with Pepe the frog? Then this texture pack is for you! He changes the texture of a winter frog to a Pepe frog.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Frog/42/2.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/42/PepeFrogv2.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/42/1.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/42/1.png"
+},
+  {
+      "name": "2 Player Horse Riding Addon",
+      "role": "This add-on lets two players ride a horse at the same time. Horses, but especially saddles, can be quite difficult to find early on in the game, so this makes horse riding a little bit easier. It's also just looks very cool to have two players ride it at the same time.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/15/2.jpg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/15/2 players riding a horse.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/15/1.jpg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/15/1.jpg"
+  },
+    {
+      "name": "UltraMin Shader",
+      "role": "WARNING! This is not UltraMax Shader. The shader that you�re looking for is in a different post. UltraMin Shader is a variation of UltraMax Shader aimed to give you an ultra lightweight and extremely close to vanilla based visuals, the original intention of UltraLite Shader. In fact, this shader is planned to be the continuation of the now obsolete and superseded UltraLite and Ultra10 Shader. UltraMin Shader, while maintaining fair performance, is designed to be as compatible as possible to as many devices as possible. Apart from that, UltraMin Shader will serves as UltraMax Shader�s experimental shader. Support both Windows 10 and Android version of Minecraft Bedrock Edition (Based on my testing: Lenovo ThinkPad Edge E420s, Huawei P9).",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/7/tujuh.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/7/UltraMin Shader 1.0.1.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/7/tigabelas_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/7/empatbelas_desc.png"
+    },
+    {
+      "name": "EVO Shader Mod V1.2.1",
+      "role": "EVO Shader will bring your MCPE to �realistic looking� with realistic lighting, it�s had many improvements in graphic, also have directional lighting from sun,semi-3D Cloud without lag and many more, I hope you all enjoyed it",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/8/limabelas_desc.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/8/EVOShaderModV1.2_REV33.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/8/limabelas_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/8/enambelas_desc.png"
+    },
+    {
+      "name": "ChunkBounds Shaders",
+      "role": "Simple resource-pack, which shows you the boundaries of all chunks. Every Chunk is 16 blocks in the x and the z Direction. Useful on some Servers where you have to claim chunks to build on This pack shows the bounds of every chunk in your world. The chunks are outlined by red markers, so they are very easy to spot, and especially so when it�s nighttime. Finding the exact positioning of chunks in Minecraft: Bedrock Edition can be quite tricky, but with this pack it�s so much easier. It works for both Android, iOS and Windows 10.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/9/tujuhbelas_desc.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/9/ChunksBoundsShaders v.1.0.3.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/9/delapanbelas_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/9/sembilan.png"
+    },
+    {
+      "name": "Simple Shader (Previously SSPEShader)",
+      "role": "Simple Shader is a lightweight shader pack which is the perfect solution for anyone who have got a low-end device and haven�t been able to use any of the other shader packs. It�s a much more simple pack which still got some of the essential features (such as more realistic skies) to make Minecraft much more beautiful and faithfully realistic.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/10/sepuluh.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/10/SimpleShader.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/10/sembilanbelas_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/10/duapuluh_desc.png"
+    },
+    {
+      "name": "Kuri Shaders (Android)",
+      "role": "Kuri Shaders is a resource pack which brings improved ambient to the world and also new effects for entities. At this moment in time it is only available for Android devices. It�s recommended to be using the latest beta. This new shaders pack will make your world come to alive more and make it more interesting to explore as it�s a general improvement of the graphics.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/11/sebelas.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/11/Kuri Shaders v1.0.0 (MCBE 1.8+).mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/11/duapuluhsatu_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/11/duapuluhdua_desc.png"
+    },
+    {
+      "name": "Tint Shader (Windows 10)",
+      "role": "Tint Shader is adds beautiful new skies, shadows and lighting to Minecraft: Bedrock Edition. Due to certain limitations it�s currently only available for Windows 10 (PC) users. During the night the sky is lit up by amazing northern lights. Not only does these shaders make the world more realistic but it also adds another whole new quality of exploration to the game as everything is more beautiful to explore.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/12/duapuluhtiga_desc.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/12/[Windows10 TEST3.0]Tint Shader.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/12/duapuluhempat_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/12/duabelas.png"
+    },
+    {
+      "name": "WinterCraft Shader",
+      "role": "This shader will turn your world into a winter wonderland. The main and most noticeable difference is the constant white fog. Another feature is the completely revamped skybox which includes white puffy clouds. At this point it only appears to be working for Android and some other devices and it�s also not as well optimized for nighttime compared to daytime.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/13/tigabelas.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/13/WinterCraft.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/13/duapuluhlima_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/13/duapuluhenam_desc.png"
+    },
+    {
+      "name": "Psychedelic PE Shader",
+      "role": "This shader alters the graphics in Minecraft to look stranger and more vibrant. The entire world appears as if it is an entire living organism as it will continuously pulsate and shift colors. It�s a quite overwhelming experience and it would no doubt be more difficulty trying to survive in Minecraft while using this shader.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/14/empatbelas.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/14/psychedelicpe.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/14/duapuluhtujuh_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/14/duapuluhdelapan_desc.png"
+    },
+    {
+      "name": "BLPE Shaders",
+      "role": "BLPE Shaders turns Minecraft into something much more beautiful to experience. The colors for the grass, leaves and other terrain blocks look much more vibrant and the design for the water also looks more shiny and realistic. However, since this is the first release there are some flaws. For example, the water is completely still and doesn�t move and also the clouds during the day looks just as they do originally.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/15/tigapuluh_desc.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/15/blpe-shaders.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/15/limabelas.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/15/duapuluhsembilan_desc.png"
+    },
+    {
+      "name": "Beautiful Swamp Water! (Shader)",
+      "role": "Want to build a great build in a swamp but sick of the ugly water? Then look no further than this helpful resource pack that will make swamps look like normal rivers. It works really well with my builds and if you want to do the same for yours than just download this pack!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/16/tigapuluhsatu_desc.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/16/Swampfixer[2].mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/16/tigapuluhdua_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/16/enambelas.png"
+    },
+    {
+      "name": "Zebra Shaders PE",
+      "role": "Zebra Shaders is a realistic shaders pack that is made to be able to run on mobile low devices, with beautiful coloring and comfortable in sight. zebra shaders are very suitable for you to use when playing survival or creative.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/17/tujuhbelas.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/17/Zebra Shaders v1.8.1 [Bug Fix].mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/17/tigapuluhtiga_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/17/tigapuluhempat_desc.png"
+    },
+    {
+      "name": "TTW Shader",
+      "role": "The Thin White Shader It is a realistic shader whose main function is to run on most low-end devices, with realistic shadow, soft lighting and impressive skies. Support for mid-low range phones This Shader tries to give a new elegant and realistic look to Minecraft, try to optimize it by avoiding changing textures so that it can run on most devices.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/18/delapanbelas.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/18/TTW Shader v0.17.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/18/tigapuluhlima_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/18/tigapuluhenam_desc.png"
+    },
+    {
+      "name": "EB SHADER (Android/iOS) (1.14+)",
+      "role": "EB shader or Enhanced Biomes shader was the shader that i've made and used in my previous addon Enhanced Biomes. I've made this page to showcase this shader because i'm not able to do so in my previous work, so you can now have a wider look on this shader. This Shader is for Minecraft (Android / iOS). If you want to check the Enhanced Biomes addon, the link is at the bottom part of this page.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/19/tigapuluhtujuh_desc.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/19/EB SHADER.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/19/tigapuluhdelapan_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/19/tigapuluhdelapan_desc.png"
+    },
+    {
+      "name": "Source Reload Shader (Windows 10)",
+      "role": "Source Reload is a highly realistic shader pack for Windows 10 Edition. Some of the included features are massively improved clouds, waving plants and wavy water. It's definitely one of the best shader packs and currently it�s only available for Windows 10 users. Even though it's a fairly new pack it includes most features one needs!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/20/tigapuluhsembilan_desc.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/20/[Ultra]Source Reload Shader 1.2 Ultra W10.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/20/empatpuluh_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/20/duapuluh.png"
+    },
+    {
+      "name": "TrippyPE Shader",
+      "role": "TrippyPE is most likely something you've never experienced in Minecraft PE. It makes the entire world look wavy and unless you knew you had installed it you probably would have started to question your own sanity. The game is still entirely playable but things will definitely look a whole lot different which as a result makes playing it more difficult.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/21/empatpuluhsatu_desc.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/21/trippype_shader.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/21/empatpuluhsatu_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/21/empatpuluhdua_desc.png"
+    },
+    {
+      "name": "Round World Shaders",
+      "role": "Are you a flat world believer? Well, no more I suppose! This shader makes the world in Minecraft look more round. It�s only the player who uses the resource pack which will be affected by this great visual change. It]'s by no means a realistic pack as you can't really sense the shape of the Earth just by walking. It's still pretty cool though. Beware though, it might cause you to feel nauseous but it's easy to disable the pack.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/22/empatpuluhtiga_desc.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/22/Round World Shaders v. 1.0.2.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/22/empatpuluhempat_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/22/duapuluhdua.png"
+    },
+    {
+      "name": "RSPE Shaders",
+      "role": "RSPE Shaders is a resource pack which makes the world look more vibrant, realistic and alive. Some things which it changes are the clouds, water, lava and shadows. This is one of the best shader packs for version 0.16/0.17 for Minecraft PE. It has been specifically designed for iOS devices but it will also work on Android. All in all, it�s an amazing shaders pack!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/empatpuluhlima_desc.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/RSPEShaderBeta.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/empatpuluhenam_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/duapuluhtiga.png"
+    },
+    {
+      "name": "Realistic Shaders [16 16]",
+      "role": "This shaders pack is the perfect addition to make the game look a lot more realistic and alive. One of the really cool features make it look as if wind was blowing in the grass and leaves causing them to move. The shadows are heavily improved which make them look more realistic and as you will see in the images further down it has a great impact on the graphics.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/tigapuluhdua.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/Shaders Mcpe 0.12.1 (1).mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/enampuluhtiga_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/enampuluhempat_desc.png"
+    },
+    {
+      "name": "Winter HD (1.14+)",
+      "role": "This is a shaders which adds winter season with high definition of everything. Suitable for your map, and it is working smoothly in every low spec device. The size is just 2 MB. Interested? Feel free to try it out!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/tujuhpuluhsembilan_desc.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/WinterHD.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/empatpuluh.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/delapanpuluh_desc.png"
+    },
+    {
+      "name": "Night Vision Pack (Shader)",
+      "role": "Forget about the torches. This shader pack pretty much removes darkness from the game and it doesn�t seem to affect other parts of the game in any way. This pack is suitable for anyone who want to be out exploring during the night or go on an adventure underground to explore caves. Everything will look the same except for the darkness which will be gone.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/empatpuluhtiga.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/Night Vision Pack 1.0.3.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/delapanpuluhenam_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/delapanpuluhlima_desc.png"
     }
   ],
   "Skins": [
@@ -74,23 +786,12 @@
       "view_skin": "https://lh3.googleusercontent.com/sP7XwfJd6fERGo-ayFyQJtSHnBsoLSUGMjBlIZJOCIfclXUgggCPaC_50jdl03ydpTt5bfn1xHiFIfPE6qODO_I"
     }
   ],
-  "More":
-  [
-      
-      
-  
+  "More": [
     {
-      "id":1,
-      "title":"",
-      "image":"",
-      "link":"https://google.com/"
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": "https://google.com/"
     }
-  
-
-      
-      
-      ]
+  ]
 }
-
-
-
